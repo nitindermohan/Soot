@@ -1,0 +1,3 @@
+This is a Faint Code Analyzer made using Soot Framework. The analyzer can run on java programs and will output all the lines and variables which are Faint in the program.
+The main.java in the repo will have links to the program you are going to analyse and also it will call the analyzer to work on that particular program. I am also including 6 different test cases which contains the faint code.
+Please follow the tutorial on how to setup Soot in eclipse http://www.sable.mcgill.ca/soot/tutorial/index.html
